@@ -4,12 +4,12 @@ Even though I am in my third year of the ICS program, I am embarrassed
 to admit that I thought Java and Javascript were the same thing. I
 didn’t have time to think about the difference, since it has been a year
 since I have touched Java, due to mainly programming in C. So when I
-started doing the “intro to Javascript” exercises I thought I already
+started doing the “intro to Javascript” exercises I thought I was already
 familiar with the language. Boy was I wrong.
 
 ## Benefits of Javascript
 
-First of all Javascript feels easier to use compared to C or Java, not
+First of all Javascript feels easier to use compared to C or Java because of small changes. Not
 having to specify your variable, being able to access characters in a
 string by using array notation, the list goes on. Secondly there is a
 much wider ARRAY of things that you can do in Java.
