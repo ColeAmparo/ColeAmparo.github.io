@@ -1,3 +1,5 @@
+#They both have Java in the name... What's the difference?
+
 Even though I am in my third year of the ICS program, I am embarrassed
 to admit that I thought Java and Javascript were the same thing. I
 didn’t have time to think about the difference, since it has been a year
