@@ -46,7 +46,7 @@ Lets talk about WODs
 
 To be honest I was dreading WODs (Workout of the day), which are timed
 exercises worth 100 points that are pass/fail. Now that I have had some
-time to practices WODs I realize that they are preparing me for
+time to practice WODs I realize that they are preparing me for
 technical interviews. It does matter if you understand a concept, but it
 is useless if you can’t apply it. WODs force you to apply the concept
 that you are learning into actual programming, and at first it will be
@@ -58,7 +58,7 @@ of the process.
 Sure it’s easy when you have a couple hours to work on a trivial
 program, if you look it up on google you will probably find code that
 you can copy. However when it is a timed exercise you only have the
-information in your brain. Not only do WODs convince me to study the
+information in your brain. Not only do WODs convince you to study the
 material, they also show that failure is a part of the computer science
 process. I am sure that I will get a DNF in one or two WODs this
 semester, but if I can learn from the mistakes not only will I improve
