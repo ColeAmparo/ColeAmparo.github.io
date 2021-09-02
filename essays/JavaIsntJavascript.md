@@ -1,12 +1,12 @@
----
-layout: essay
-type: essay
-title: I thought Java WAS Javascript
+--- 
 date: 2023-08-31
-labels:
+labels: 
   - Javascript
   - Learning
----
+layout: essay
+title: "I thought Java WAS Javascript"
+type: essay
+
 
 
 Even though I am in my third year of the ICS program, I am embarrassed
