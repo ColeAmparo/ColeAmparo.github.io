@@ -1,4 +1,4 @@
-#They both have Java in the name... What's the difference?
+# They both have Java in the name... What's the difference?
 
 Even though I am in my third year of the ICS program, I am embarrassed
 to admit that I thought Java and Javascript were the same thing. I
@@ -7,8 +7,7 @@ since I have touched Java, due to mainly programming in C. So when I
 started doing the “intro to Javascript” exercises I thought I already
 familiar with the language. Boy was I wrong.
 
-Benefits of Javascript
-----------------------
+## Benefits of Javascript
 
 First of all Javascript feels easier to use compared to C or Java, not
 having to specify your variable, being able to access characters in a
