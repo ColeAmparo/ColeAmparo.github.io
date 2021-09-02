@@ -6,7 +6,7 @@ labels:
 layout: essay
 title: "I thought Java WAS Javascript"
 type: essay
-
+---
 
 
 Even though I am in my third year of the ICS program, I am embarrassed
