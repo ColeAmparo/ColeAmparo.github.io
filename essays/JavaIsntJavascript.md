@@ -1,4 +1,13 @@
-# They both have Java in the name... What's the difference?
+---
+layout: essay
+type: essay
+title: I thought Java WAS Javascript
+date: 2023-08-31
+labels:
+  - Javascript
+  - Learning
+---
+
 
 Even though I am in my third year of the ICS program, I am embarrassed
 to admit that I thought Java and Javascript were the same thing. I
