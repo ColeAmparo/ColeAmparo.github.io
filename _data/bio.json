@@ -34,12 +34,12 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Game Development",
       "keywords": [
       ]
     },
     {
-      "name": "data mining",
+      "name": "Learning",
       "keywords": [
       ]
     },
@@ -77,6 +77,11 @@
       "endDate": "Present",
       "gpa": "3.51",
       "courses": [
+        "ICS 111: Intro to ICS I",
+        "ICS 211: Intro to ICS II",
+        "ICS 212: Program Structure",
+        "ICS 141 & ICS 241: Discrete Math I & II",
+        "Math 241 & Math 241: Calculus I & II"
       ]
     }
   ],
@@ -135,16 +140,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2019-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who maintain a cumulative 3.0 Mānoa GPA or greater and enroll in and earn a minimum of 12 credits at UH Mānoa per Fall and Spring semesters."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "UH Manoa Dean's List",
+      "date": "2019-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Completed every semester from 2019 with more than 12 credits per, with a 3.5+ GPA"
     }
   ],
   "references": [
