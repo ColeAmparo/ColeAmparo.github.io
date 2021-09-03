@@ -1,3 +1,18 @@
+---
+layout: project
+type: project
+image: images/bank.png
+title: Bank Record Database
+permalink: projects/bankrecorddatabase
+date: 2020-12-05
+labels:
+  - C
+  - C++
+  - Pointers
+summary: A database of bank records in a linked list, that are able to be added, deleted, or printed by a user.
+---
+
+
 How does it work?
 -----------------
 
