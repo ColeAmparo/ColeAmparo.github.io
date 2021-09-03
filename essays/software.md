@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+title: What’s the deal with Software? 
+date: 2021-09-01
+labels:
+  - Software Engineering  
+  - The future
+---
+
 I am interested in many different aspects of software engineering, and I
 have been since I was a kid. Before the goal was to “make video games”
 but as I progress and learn more about software engineering my curiosity
