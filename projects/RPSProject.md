@@ -1,3 +1,17 @@
+---
+layout: project
+type: project
+image: images/RPSProject.png
+title: Pokemon Rock-Paper-Scissors
+permalink: projects/micromouse
+date: 2019-12-08
+labels:
+  - Teamwork
+  - Java
+summary: A game of rock-paper-scissors between two players using Pokemon, created by me and my partner Nathan Corpuz for ICS 111
+---
+
+
 The final project for an introduction to ICS I was to make a game using
 Java on the Eclipse IDE. The project was open ended in more ways then
 one, but all projects required a certain number of classes, of which
