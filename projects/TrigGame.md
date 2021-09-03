@@ -1,3 +1,17 @@
+---
+layout: project
+type: project
+image: images/trigGame.png
+title: Trigonometry Game
+permalink: projects/triggame
+date: 2018-5-22
+labels:
+  - Trigonometry
+  - Basic Javascript
+summary: A game that uses trigonometry to detect collision between a ball and a line.
+---
+
+
 How does it work?
 -----------------
 
