@@ -4,7 +4,7 @@ type: project
 image: images/trigGame.png
 title: Trigonometry Game
 permalink: projects/triggame
-date: 2018-5-22
+date: 2018-05-22
 labels:
   - Trigonometry
   - Basic Javascript
