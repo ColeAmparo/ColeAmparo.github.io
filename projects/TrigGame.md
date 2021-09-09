@@ -22,38 +22,32 @@ Trivial. However I wanted to apply trigonometric concepts I was learning at the 
 Setting up the collision
 ------------------------
 
-The language I was coding on was not that complex, so it didn’t have a
-circle object, but I wanted to make a circle anyways. It did turn out
-that you can make as many rectangles as you wanted! But only the top
-left coordinate of the rectangle could detect collision. However, if we
-had 360 squares, and the top left coordinate of a square could be one
+The website I was coding on was not that complex, the circle object did not have collision on all sides. It is also possible to make squares but only the top left coordinate of the square could detect collision. However, if we
+had 360 squares of the same size, and the top left coordinate of the each square could be one
 degree of a circle, maybe we can have a circle with collision!
 
 ```
-    for(var theta = 0; theta < 2 * pi; theta += pi/180){
-        ballR = new Rectangle(2*radiusBall*Math.cos(theta), 2*radiusBall*Math.sin(theta));
-        ballR.setPosition(ball.getX()-radiusBall*Math.cos(theta), ball.getY()- radiusBall*Math.sin(theta));
-        ballR.setColor(Color.BLUE);
+ line 1   for(var theta = 0; theta < 2 * pi; theta += pi/180){
+ line 2      ballR = new Rectangle(2*radiusBall*Math.cos(theta), 2*radiusBall*Math.sin(theta));
+ line 3      ballR.setPosition(ball.getX()-radiusBall*Math.cos(theta), ball.getY()- radiusBall*Math.sin(theta));
+ line 4      ballR.setColor(Color.BLUE);
 ```
 
-To explain how it works, there is a var theta, which in this case stands
-for what degree of the circle we are on. The for loop should iterate 360
-times, each time creating a new rectangle with the top left coordinate
-(of the rectangle) being the degree of the circle the loop is on. It is
-pretty confusing and there is a major oversight as well.
+To explain how it works, there is a variable theta, which in this case stands
+for what degree of the circle we are on. The for loop iterates 360
+times (line 1), since theta is incremented by pi/180 and the loop stops when theta > 2 * pi. In line 2 the size of the rectangle is created, and in line 3 the x and y of the top left of the coordinate are set to degree theta. Line 4 specifies the color.
 
 Is it worth the pain?
 ---------------------
 
 The program doesn’t work perfectly because to detect collision it checks
-if the coordinate is above or below the slope of the line created, since
-the circle is NOT actually a circle, it has it’s own for loop that
-checks each rectangle as the circle object is moving. I did try a
-version where very time the circle object moves, all 360 rectangles are
-checked before the circle moves again. So I learned that there are
+if the coordinate is above or below the slope of the line created. Since
+the circle is NOT actually a circle, (it is 360 seperate squares) it has it’s own for loop that
+checks each square as the circle object is moving. I did try a
+version where every time the circle object moves, all 360 rectangles are
+checked before the circle moves again. However, that solution had a horrible runtime and wouldn't work. So I learned that there are
 always different solutions to a problem (i.e, not having a circle
-object) but sometimes these solutions are not worth implementing… Doing
-this did help me understand trig better though.
+object with full collision) but sometimes these solutions are not worth implementing… This project did help me get a better understanding Trigonometry.
 
 Try out the code yourself:
 [Here](https://codehs.com/sandbox/id/line-game-OJKRwO).
