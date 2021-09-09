@@ -12,13 +12,13 @@ summary: A game of rock-paper-scissors between two players using Pokemon, create
 ---
 
 
-The final project for an introduction to ICS I was to make a game using
+Summary
+-----------------------
+
+The final project for introduction to ICS 111 was to make a game using
 Java on the Eclipse IDE. The project was open ended in more ways then
 one, but all projects required a certain number of classes, of which
 should be separated equally between groups members.
-
-What is the game about?
------------------------
 
 The game is rock-paper-scissors, but instead of picking rock, paper or
 scissors, you pick a Pokemon depending on what key you press (three
@@ -27,6 +27,9 @@ Pokemon and once both inputs are stored, the game does a simple
 animation and declares who lost the round. If you lose three rounds, you
 lose the game as well (indicated by the player’s health).
 
+
+## Contribution
+
 The amount of works was split 50/50, Nathan worked on the rps class,
 which was the logic for how the rock-paper-scissors mechanic would work.
 I worked on the Health Bar class, as well as the simple animations for
@@ -34,7 +37,8 @@ the game. We both had to work on start.java to make sure that the
 classes would work together, and the animations would match the code
 correctly.
 
-Learning Experiences
+
+What I learned
 --------------------
 
 This was my first real experience of working with someone on the same
@@ -51,3 +55,5 @@ Link to the source code, in a GitHub Repository
 
 Link to a video demonstration of the game
 [Here](https://www.youtube.com/watch?v=4pH_zQ_KfyA)
+
+
