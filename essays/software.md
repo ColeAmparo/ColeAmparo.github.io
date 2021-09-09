@@ -34,11 +34,9 @@ realistic expectations now, but there is a small part of me that wants
 to learn software engineering in order to apply it to making video
 games.
 
-Sharpening Skills
+Goals in Software Engineering
 -----------------
 
-There are also skills that I want to develop, in order to become better
-with software engineering.
 
 ### I want to git gud at GitHub
 
@@ -49,9 +47,18 @@ place makes me feel very clean. Getting used to GitHub is one skill I
 want to practice ASAP because when it comes to actual software
 engineering jobs, I am sure that a majority of them use GitHub.
 
+
 ### Getting better at Javascript
 
 As I said in my last technical essay, Javascript is such a versatile
 language, that is used a lot in software engineering. In this class I
 hope to learn about what makes Javascript better than C/Java and be able
 to apply it in my own programming.
+
+
+### Find interest in solving problems
+
+Software engineering can be frustrating, even the little bit I have done as an undergrad has made me rethink about the career path I am going into. I want to gain better understanding of a language to the point where I see a problem and instead of getting frustrated, I am interested in finding a solution. 
+
+## Conclusion
+
