@@ -38,7 +38,7 @@ times (line 1), since theta is incremented by pi/180 and the loop stops when the
 
 ## Contribution
 
-I made the entire program myself, my Trigonometry and Coding teacher also gave me a lot of advice as I was working on the program
+I made the entire program myself, my Trigonometry and Coding teacher also gave me a lot of advice as I was working on the program.
 
 
 What I learned
