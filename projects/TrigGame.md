@@ -15,10 +15,9 @@ summary: A game that uses trigonometry to detect collision between a ball and a 
 How does it work?
 -----------------
 
-The game itself if very simple, you are allowed to draw a line that the
+The game itself is very simple, you are allowed to draw a line that the
 ball bounces off of, and when the ball touches the green square you win.
-Trivial. However I wanted to apply trigonometric concepts I was learning
-into this program, so I will tell you how I did it.
+Trivial. However I wanted to apply trigonometric concepts I was learning at the time into this program, so I will tell you how I did it.
 
 Setting up the collision
 ------------------------
@@ -30,10 +29,12 @@ left coordinate of the rectangle could detect collision. However, if we
 had 360 squares, and the top left coordinate of a square could be one
 degree of a circle, maybe we can have a circle with collision!
 
+```
     for(var theta = 0; theta < 2 * pi; theta += pi/180){
         ballR = new Rectangle(2*radiusBall*Math.cos(theta), 2*radiusBall*Math.sin(theta));
         ballR.setPosition(ball.getX()-radiusBall*Math.cos(theta), ball.getY()- radiusBall*Math.sin(theta));
         ballR.setColor(Color.BLUE);
+```
 
 To explain how it works, there is a var theta, which in this case stands
 for what degree of the circle we are on. The for loop should iterate 360
