@@ -25,7 +25,7 @@ scissors, you pick a Pokemon depending on what key you press (three
 options of Pokemon: Fire, Water and Grass). Your opponents picks a
 Pokemon and once both inputs are stored, the game does a simple
 animation and declares who lost the round. If you lose three rounds, you
-lose the game as well (indicated by the player’s health).
+lose the game as well (indicated by the player’s health). If you lose the other player wins (as shown below).
 
 
 ## Contribution
