@@ -51,7 +51,7 @@ checks each square as the circle object is moving. I did try a
 version where every time the circle object moves, all 360 rectangles are
 checked before the circle moves again. However, that solution had a horrible runtime and wouldn't work. So I learned that there are
 always different solutions to a problem (i.e, not having a circle
-object with full collision) but sometimes these solutions are not worth implementing… This project did help me get a better understanding Trigonometry.
+object with full collision) but sometimes these solutions are not worth implementing… This project did help me get a better understanding of Trigonometry.
 
 Try out the code for yourself:
 [Here](https://codehs.com/sandbox/id/line-game-OJKRwO).
