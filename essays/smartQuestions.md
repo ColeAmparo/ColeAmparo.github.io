@@ -1,7 +1,18 @@
+---
+layout: essay
+type: essay
+title: Smart Questions: A way to a Hacker’s heart (and brain)
+date: 2021-09-8
+labels:
+  - Smart Questions
+  - Software engineering
+---
+
+
 Smart Questions: A way to a Hacker’s heart (and brain).
 =======================================================
 
-Why are smart questions important?
+Why are smart questions important for software engineers
 ----------------------------------
 
 “Why does a question have to be smart if I only want an answer without
