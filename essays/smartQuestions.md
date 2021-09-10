@@ -9,8 +9,6 @@ labels:
 ---
 
 
-Smart Questions are the best way to understand a problem, and get the best answer. 
-
 
 Why are smart questions important for software engineers
 ----------------------------------
