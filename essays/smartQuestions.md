@@ -9,30 +9,32 @@ labels:
 ---
 
 
-
-Why are smart questions important for software engineers
-----------------------------------
-
 “Why does a question have to be smart if I only want an answer without
 learning anything?" Thinking like this is a foolproof plan to not get
-your question answered. Software engineers are not going out of there
-way to answer a question that you can look up online just to cater to
+your question answered.
+
+
+Why smart questions important for software engineers
+----------------------------------
+
+Software engineers are not going out of there
+way to answer a question that you can look up online, just to cater to
 your every whim. Software engineers want questions that provoke their
 thoughts, that show new problems, ultimately so they can sharpen their
 understanding of a certain topic. Smart questions are a collaboration
 between the user and the “Hacker”. Smart Questions are very specific and
 show that the user has researched the problem, attempted finding a
 solution, and have a very good understanding of their code. When a
-Hacker find a Smart Question they don’t have to waste time finding the
+Hacker finds a Smart Question they don’t have to waste time finding the
 specific issue and get straight to problem-solving and learning more. As
 a software engineer asking Smart Questions is important not only because
-it help your own understanding of the problem as you write out your
+it helps your own understanding of the problem as you write out your
 question, but also Smart Questions have a higher chance of being
-answered by a Hacker. To show the do’s don’ts of Smart Questions I
+answered by a Hacker. To show the do’s and don’ts of Smart Questions I
 reference the essay “How To Ask Questions The Smart Way” by Eric Raymond
 and Rick Moen.
 
-Link [here](http://www.catb.org/esr/faqs/smart-questions.html#code)
+Link [here](http://www.catb.org/esr/faqs/smart-questions.html)
 
 An example of a Smart Question
 ------------------------------
@@ -62,7 +64,7 @@ machines.
 Since the user was very specific about the issue, an intelligent
 discussion started and in the end a Hacker hypothesized that it might’ve
 been an environmental issue, and gave steps on how to fix that issue.
-The Smart Question was specific so the Hacker could give a good answer.
+The Smart Question was specific which means the Hacker could give a good answer.
 
 An example of a Stupid Question
 -------------------------------
@@ -74,7 +76,7 @@ Again I feel it is important to emphasize that I don’t understand the
 topic of this question, but this time I feel like I am not alone in that
 thought. According to Eric Raymond’s precepts, this is a stupid
 question. First, there is no evidence that the user who posted the
-question did any research, testing, googling, reading, etc. when it came
+question did any research, testing, googling, reading, etc, when it came
 to finding a solution on their own. The user is also not asking a
 specific, technical question, instead the only thing the user is asking
 is:
@@ -85,7 +87,7 @@ This header is not only open-ended and unspecific, but the grammar is
 horrible. The user’s location is Bangladesh so I assume that English is
 not their first language, but Raymond gives plenty of solutions to
 non-native english speakers when it comes to asking Smart Questions.
-Even without the grammar issue the user does not expand on what they are
+Even without the grammar issues the user does not expand on what they are
 asking in the body of the question, only repeating what is in the
 header. This is a type of question that a “hacker” wouldn’t even glance
 at because of the header. At the end of their question the user says
