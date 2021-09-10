@@ -13,14 +13,14 @@ summary: A database of bank records in a linked list, that are able to be added,
 ---
 
 
-<img class="ui medium left floated image" src="../images/bank.png">
+<img class="ui medium left floated image" src="../images/bankPrint.png">
 
 Summary
 -----------------
 
 When you start the program there is a prompt asking the user if they
 want to add, delete or find a bank record in the database, or print all
-the records in the database. The user interface was simple enough. The
+the records in the database (Picture above). The user interface was simple enough. The
 hard part was that each record was an object, that had a start pointer,
 an account number, a name and an address. There are also functions that
 can take in a textfile of an already created record database, and then
@@ -34,8 +34,7 @@ the second highest account number was pointing to the first record, and this
 continues until the list ends. When a new record is added to the
 database, the pointer dereferences the account numbers and compares
 them, and when the record has found its place in the linked list, the
-record before it has to now point to the new record.
-
+record before it has to now point to the new record. 
 
 ## Contribution
 
@@ -50,7 +49,7 @@ your code is doing.** Especially when it comes to pointers, if you make
 a mistake on the syntax, the linked list will not function, and the
 function addRecord might be comparing a records account number to a
 different records name. Because I knew how the pointers worked it was
-easier to translate this program into c++.
+easier to translate this program into C++.
 
 Link to the source code, in a GitHub Repository
 [Here](https://github.com/ColeAmparo/CppLinkedListRecordDatabase).
