@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions: A way to a Hacker’s heart (and brain)
+title: Smart Questions! A way to a Hacker’s heart (and brain)
 date: 2021-09-08
 labels:
   - Smart Questions
@@ -45,17 +45,17 @@ StackOverflow link:
 The question summarized is: On Windows 2019 vm, using Apache2.4 when
 pyttsx3 (which is a text to speech conversion library) is called it is
 producing empty .wav files. Apache is set up so the user can use python
-in cgi-bin scripts The user has a script that when called on command
-line produces a 115 kb .wav file that contains a spoken version of his
+in cgi-bin scripts, The user has a script that when called on the command
+line produces a 115 kb .wav file that contains a spoken version of the given
 text. However when the user invokes the same script via a web browser it
-creates a 46b that has the .wav header but no data.
+creates a 46b file that has the .wav header but no data.
 
 I don’t understand the topic of the questions but I can breakdown why
 this question is a good example of a smart question by how it follows
 the precepts established by Eric Raymond. First I have good reason to
 suspect that the user did their research before asking the question on
 StackOverflow. The user has tried multiple solutions such as running
-WAMP on a Windows 10 machine, or using Apache use php to call python as
+WAMP on a Windows 10 machine, or having Apache use php to call python as
 a shell command. Even if I don’t know exactly what the user is talking
 about, they have tried many solutions. Second, the user specifies the
 versions of important things on their Windows 10 and Windows 2019
