@@ -19,11 +19,15 @@ The game itself is very simple, you are allowed to draw a line that the
 ball bounces off of, and when the ball touches the green square you win.
 Trivial. However I wanted to apply trigonometric concepts I was learning at the time into this program, so I will tell you how I did it.
 
+
+<img class="ui image" src="{{ site.baseurl }}/images/UnitCircle.png">
+
+
 ### Setting up the collision
 
 The website I was coding on was not that complex, the circle object did not have collision on all sides. It is also possible to make squares but only the top left coordinate of the square could detect collision. However, if we
 had 360 squares of the same size, and the top left coordinate of the each square could be one
-degree of a circle, maybe we can have a circle with collision!
+degree of a circle, maybe we can have a circle with collision! It would be similar to the image above but instead of 3 squares it would be 360.
 
 ```
  line 1   for(var theta = 0; theta < 2 * pi; theta += pi/180){
