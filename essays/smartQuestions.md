@@ -9,9 +9,6 @@ labels:
 ---
 
 
-Smart Questions: A way to a Hacker’s heart (and brain).
-=======================================================
-
 Why are smart questions important for software engineers
 ----------------------------------
 
