@@ -23,7 +23,7 @@ different job options for software engineers. Also software engineering
 is always growing, so if you are interested in learning new things
 constantly software engineering may be the field for you.
 
-### Gamer since birth
+### Interest since childhood
 
 I have grown up around video games my entire life, and video games are a
 major reason why I chose to be an ICS major. I am sure that many people
@@ -51,14 +51,10 @@ engineering jobs, I am sure that a majority of them use GitHub.
 ### Getting better at Javascript
 
 As I said in my last technical essay, Javascript is such a versatile
-language, that is used a lot in software engineering. In this class I
+language that is used a lot in software engineering. In this class I
 hope to learn about what makes Javascript better than C/Java and be able
 to apply it in my own programming.
 
 
-### Find interest in solving problems
-
-Software engineering can be frustrating, even the little bit I have done as an undergrad has made me rethink about the career path I am going into. I want to gain better understanding of a language to the point where I see a problem and instead of getting frustrated, I am interested in finding a solution. 
-
 ## Conclusion
-
+In conclusion as the world becomes more technologically advanced the more software engineers are going to be necessary. I want to be a part of the technological revolution, which is why I want to find a field that I am interested and start creating. As I am a little fish in the ocean that is software engineering I am very eager to start an internship and learn as much as I can.
