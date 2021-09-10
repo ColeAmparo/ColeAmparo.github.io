@@ -75,25 +75,25 @@ topic of this question, but this time I feel like I am not alone in that
 thought. According to Eric Raymond’s precepts, this is a stupid
 question. First, there is no evidence that the user who posted the
 question did any research, testing, googling, reading, etc. when it came
-to finding a solution on their ow The user is also not asking a
+to finding a solution on their own. The user is also not asking a
 specific, technical question, instead the only thing the user is asking
 is:
 
      Brute-force attack on wifi using Android is it possible
 
 This header is not only open-ended and unspecific, but the grammar is
-horrible. The user’s location is Bangladesh so I assume that english is
+horrible. The user’s location is Bangladesh so I assume that English is
 not their first language, but Raymond gives plenty of solutions to
-non-native english speakers when it comes to asking smart questions.
+non-native english speakers when it comes to asking Smart Questions.
 Even without the grammar issue the user does not expand on what they are
 asking in the body of the question, only repeating what is in the
 header. This is a type of question that a “hacker” wouldn’t even glance
 at because of the header. At the end of their question the user says
 that it is very important to him that this question gets answered, which
-we all know is a big no-no when it comes to asking smart questions.
+we all know is a big no-no when it comes to asking Smart Questions.
 Hackers who answer questions on forums like StackOverflow are not
 answering out of the compassion of their heart, nor are they going to
-tutor you for information you can find online. Hackers look for
+tutor you information you can find online. Hackers look for
 questions that are specific and challenging because they like to problem
 solve. A question like this one is likely to be on the internet already,
 so the user should’ve STFW. On the website there was no responses and
