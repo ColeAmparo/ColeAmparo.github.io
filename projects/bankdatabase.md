@@ -18,7 +18,6 @@ summary: A database of bank records in a linked list, that are able to be added,
 Summary
 -----------------
 
-
 When you start the program there is a prompt asking the user if they
 want to add, delete or find a bank record in the database, or print all
 the records in the database. The user interface was simple enough. The
@@ -27,7 +26,7 @@ an account number, a name and an address. There are also functions that
 can take in a textfile of an already created record database, and then
 when the program is over print out the record database.
 
-### Pointers
+### Pointers and Linked Lists
 
 In the database there is a linked list where the record with the
 highest account number was pointing to the start, while the record with
@@ -36,6 +35,7 @@ continues until the list ends. When a new record is added to the
 database, the pointer dereferences the account numbers and compares
 them, and when the record has found its place in the linked list, the
 record before it has to now point to the new record.
+
 
 ## Contribution
 
