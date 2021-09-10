@@ -27,6 +27,8 @@ Pokemon and once both inputs are stored, the game does a simple
 animation and declares who lost the round. If you lose three rounds, you
 lose the game as well (indicated by the player’s health). If you lose the other player wins (as shown below).
 
+<img class="ui large right floated rounded image" src="../images/pokemonWin.png">
+
 
 ## Contribution
 
