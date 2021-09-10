@@ -20,7 +20,7 @@ Summary
 
 When you start the program there is a prompt asking the user if they
 want to add, delete or find a bank record in the database, or print all
-the records in the database (Picture above). The user interface was simple enough. The
+the records in the database (Picture to the left). The user interface was simple enough. The
 hard part was that each record was an object, that had a start pointer,
 an account number, a name and an address. There are also functions that
 can take in a textfile of an already created record database, and then
