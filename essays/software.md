@@ -38,7 +38,7 @@ Goals in Software Engineering
 -----------------
 
 
-### I want to git gud at GitHub
+### I want to git good at GitHub
 
 I have only spent a week and a half using GitHub and I can already see
 how useful it is, even thought I personally haven’t used it that much.
@@ -46,6 +46,8 @@ Being able to upload all my coding projects from previous classes to one
 place makes me feel very clean. Getting used to GitHub is one skill I
 want to practice ASAP because when it comes to actual software
 engineering jobs, I am sure that a majority of them use GitHub.
+
+After learning more about configuration management I realize that GitHub is a professional standard for software engineers. In any software job that requires group work GitHub will be used. I want to learn how to use GitHub desktop more efficiently.
 
 
 ### Getting better at Javascript
