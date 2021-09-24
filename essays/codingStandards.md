@@ -4,6 +4,7 @@ type: essay
 title: Coding Standards are the Best Adhesive for Inefficient Programming
 date: 2021-09-22
 labels:
+  - Coding Standards
   - ESLint 
   - Javascript
 ---
