@@ -12,18 +12,18 @@ Why are coding standards necessary? For every language that I learned throughout
 
 One might say: 
 
-> Coding standards are unecessary because if my code works it doesn't matter what it looks like."
+> Coding standards are unnecessary because if my code works it doesn't matter what it looks like."
 
 To that person I would say: 
 
 > Sure, but good luck finding people that want to work with you!
 
-Learning how to adhere to coding standards will not only make it easier to work in a group, but it will also improve your own understanding of a programming langauge. Using linters like ESLint will also make programming more efficient.
+Learning how to adhere to coding standards will not only make it easier to work in a group, but will also improve your own understanding of a programming language. Using linters like ESLint will also make programming more efficient.
 
 
 ## The benefits of Coding Standards
 
-Unless you are some freak of nature hacker-man, there will be times where group work is necessary in software engineering. When working in a group it can be hard if every programmer has their own way of programming, and a solution to that prediciament is Coding Standards! When the whole group is using the same coding standard, there will be less time-waste on trying to understand eachother's code. Having to spend less time on going over code quality and coding style leads to a more efficient workflow on a project. Overall coding standards make it easy to maintain a program and detect errors when working with multiple programmers
+Unless you are some freak of nature hacker-man, there will always be times where group work is necessary for software engineering. When working in a group it can be hard if every programmer has their own way of programming, and a solution to that problem is coding standards. When the whole group is adhering to the same coding standard, there will be less time-waste on trying to understand each other's code. Having to spend less time going over code quality and coding style leads to a more efficient workflow on a project. Overall coding standards make it easy to maintain a program and detect errors when working with multiple programmers
 
 
 ## ESLint and IntelliJ
@@ -76,4 +76,4 @@ There were 18 errors highlighted by ESLint in badExample and with the press of a
 
 ## Conclusion 
 
-In conclusion, researching about coding standards has made me realize why I was forced to use them while learnining programming. First coding standards are a staple in software engineering, because coding standards can make the code from different programmers consistent to one another. Secondly coding standards can help improve a programmers efficieny, especially when using linters like ESLint. Using linters can have downsides but overall coding standards are necessary in both group work and solo work.
+In conclusion, researching coding standards has made me realize why I was forced to use them while learning to program. First, coding standards are a staple in software engineering because coding standards can make the code from different programmers consistent with one another. Secondly, coding standards can help improve a programmer's efficiency, especially when using linters like ESLint. Using linters can have downsides but overall coding standards are necessary for both group work and solo work.
