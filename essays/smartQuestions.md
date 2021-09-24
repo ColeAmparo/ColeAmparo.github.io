@@ -5,7 +5,7 @@ title: Smart Questions! A way to a Hacker’s heart (and brain)
 date: 2021-09-08
 labels:
   - Smart Questions
-  - Software engineering
+  - Software Engineering
 ---
 
 
