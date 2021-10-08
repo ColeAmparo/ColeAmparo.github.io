@@ -5,7 +5,8 @@ title: Dear Semantic UI, U & I will go great together!
 date: 2021-10-06
 labels:
   - Semantic UI
-  - CSS Frameworks
+  - UI Frameworks
+  - CSS
   - HTML5
 ---
 
@@ -44,4 +45,17 @@ After a couple hours I made my version of the website using semantic UI and it t
 <img class="ui medium left floated rounded image" src="../images/SemanticUI.png">
   
 
+Can you tell which one is the real? Well the first one is real and I can tell you because it irritated me that I wasn't able to copy the webpage to completion.
 
+1. The font for the buttons was wrong. For some reason it showed up on the body text but I couldn't apply the correct font to any of the buttons.
+2. The background is zoomed out and low quality. I could not find a high resolution background for my webpage and I didn't know how to zoom in on the background image.
+3. The length of the top right orange button, the padding and size of the top menu, there was also a top menu above the menu shown in the image, but I could not implement that with out there being white space between the two menus.
+
+I am sure that if I knew everything about Semantic UI I would be able to copy this webpage close to perfection, however with the massize size of Semantic UI it would be similar to mastering a programming language.
+
+##Conclusion
+
+Semantic UI we have had a rough start but as I slowly learned how to use you, I realized how convient it is to work with a UI Framework. I couldn't imagine the amount of time it would take to make nice looking website using basic CSS, so I appreciate how much easier it is to use you instead. I hope we have a long and succesful journey together and you'll always be my #1... (or until I learn twitter bootstrap).
+
+Sincerely,
+Cole Amparo
