@@ -46,7 +46,7 @@ After a couple hours I made my version of the website using semantic UI and it t
     <img  style="width: 300px" src="../images/Original.png"
   </div>
     
-  <div class="column">
+  <div class="right floated column">
     <img style="width: 300px" src="../images/SemanticUI.png"
   </div>
     
