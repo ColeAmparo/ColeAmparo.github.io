@@ -42,10 +42,10 @@ After a couple hours I made my version of the website using semantic UI and it t
 
 <div class="ui two column grid container">
   <div class="column">
-    <img class="ui small left floated image" src="../images/Original.png"
+    <img  style="width: 100px" src="../images/Original.png"
   </div>
     <div class="column">
-    <img class="ui small right floated image" src="../images/SemanticUI.png"
+    <img style="width: 100px" src="../images/SemanticUI.png"
   </div>
 </div>
 
