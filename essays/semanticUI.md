@@ -41,12 +41,15 @@ After the honeymoon phase of using Semantic UI, it was time to make a copy of a 
 After a couple hours I made my version of the website using semantic UI and it turned out like this:
 
 <div class="ui two column grid container">
+  
   <div class="column">
-    <img  style="width: 100px" src="../images/Original.png"
+    <img  style="width: 300px" src="../images/Original.png"
   </div>
-    <div class="column">
-    <img style="width: 100px" src="../images/SemanticUI.png"
+    
+  <div class="column">
+    <img style="width: 300px" src="../images/SemanticUI.png"
   </div>
+    
 </div>
 
 
