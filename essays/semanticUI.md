@@ -40,10 +40,8 @@ After the honeymoon phase of using Semantic UI, it was time to make a copy of a 
 
 After a couple hours I made my version of the website using semantic UI and it turned out like this:
 
-    <img  style="width: 300px" src="../images/Original.png">
-
-    
-    <img style="width: 300px" src="../images/SemanticUI.png">
-
+<img class="ui medium right floated rounded image" src="../images/Original.png">
+<img class="ui medium left floated rounded image" src="../images/SemanticUI.png">
+  
 
 
