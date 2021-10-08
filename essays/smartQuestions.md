@@ -14,7 +14,7 @@ learning anything?" Thinking like this is a foolproof plan to not get
 your question answered.
 
 
-Why smart questions important for software engineers
+Why smart questions are important for software engineers
 ----------------------------------
 
 Software engineers are not going out of there
