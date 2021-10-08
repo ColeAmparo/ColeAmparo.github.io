@@ -41,8 +41,8 @@ After the honeymoon phase of using Semantic UI, it was time to make a copy of a 
 
 After a couple of hours, I made my version of the website using semantic UI and it turned out like this:
 
-<img class="ui large rounded image" src="../images/Original.png">
-<img class="ui right large rounded image" src="../images/SemanticUI.png">
+<img class="ui larger rounded image" src="../images/Original.png">
+<img class="ui larger rounded image" src="../images/SemanticUI.png">
   
 
 Can you tell which one is real? Well, the first one is real and I can tell you because it irritated me that I wasn't able to copy the webpage to completion. Here are some of the elements that are off:
