@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Final Project Idea"
+title: "UHArt Gallery"
 date: 2021-11-02
 labels:
   - Software Engineering
@@ -47,4 +47,5 @@ labels:
 - User goes to landing page, goes to public gallery page to view all photos
 
 - Users click on user profiles, see their profile information and “My Gallery”.
+
 
