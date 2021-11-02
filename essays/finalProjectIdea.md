@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Final Project Idea"
+title: "UHArt Gallery"
 date: 2021-11-02
 labels:
   - Software Engineering
