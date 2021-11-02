@@ -24,6 +24,7 @@ When the user makes a profile they will have an option to look at their own gall
 
 This is an example of how the art can be displayed.
 
+### Mockup Pages
 
 - Landing Page
   - Top left public gallery button
