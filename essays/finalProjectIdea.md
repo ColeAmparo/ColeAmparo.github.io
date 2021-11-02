@@ -8,6 +8,7 @@ labels:
   - Meteor
   - Semantic ui react
 ---
+Cole Amparo, Coltin-Kai Kaupiko, Henry Blazier, Ian Manzano
 
 ## Overview
 *The problem*: Due to COVID many on campus exhibitions have been canceled or attendance has been artificially reduced. As a result students have had less avenues to showcase their art to the wider UH community.
