@@ -6,6 +6,7 @@ date: 2021-11-02
 labels:
   - Software Engineering
   - Meteor
+  - Semantic ui react
 ---
 
 ## Overview
@@ -14,7 +15,15 @@ labels:
 *The solution*: Provide a platform for students to showcase their work as a member of the greater UH community. Users can post their works online which can then be viewed in a public gallery. Users can promote their own pieces
 
 
-## Mockup pages/Approach
+## Approach
+Anyone who uses the website will have a chance to browse the public gallery and sort the art by tags, users and classes.
+
+When the user makes a profile they will have an option to look at their own gallery (My gallery) and an option to upload their own art. 
+
+<img class="ui image" src="../images/UHArtExample.jpeg">
+
+This is an example of how the art can be displayed.
+
 
 - Landing Page
   - Top left public gallery button
@@ -48,4 +57,5 @@ labels:
 
 - Users click on user profiles, see their profile information and “My Gallery”.
 
-
+## Beyond Basics
+- Perhaps an admin user with their own way of logging in. Content checking the public gallery.
