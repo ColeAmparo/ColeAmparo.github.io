@@ -10,28 +10,25 @@ labels:
 ---
 
 
-Sometimes I think I'm a masochist for frustration, I like playing difficult video games and I'm a Computer Science major. If I am trying to beat a difficult boss, and I can't do anything by myself, I'll scour the internet for solutions... and the responses vary:
+Sometimes I think I'm a masochist for frustration, I like playing difficult video games and I'm a Computer Science major. If I am trying to beat a difficult boss, and I can't do anything by myself, I'll scour the internet for solutions and might find a comment like this: 
 
->> Get better lol
->> Uninstall.
->> The boss has a pattern of attacking overhead with a sword and then dashing back immediately, if you want to approach you have to dodge the sword and run at him while he dashes back. 
+> The boss has a pattern of attacking overhead with a sword and then dashing back immediately, if you want to approach you have to dodge the sword and run at him while he dashes back. 
 
 Most of the time bosses do have patterns that you can learn and exploit for your own advantage, and the same thing goes for coding! 
 
-When coming up with solution for how to approach a problem, there's a good change that multiple people have had 
+When coming up with solution for how to approach a problem, there's a good change that multiple people have had to do the same problem, and some might have documented a solution. These are design patterns, guides on how to approach a coding problem, on behalf of the software engineers who came before us. 
 
 
-
-## Respect your elders  
+## Design Patterns for Dummies 
 
 The idea of design patterns is simple:
 
 1. Find a problem, hopefully a common one, that many software developers have encountered
 2. Create a description of the solution, containing the relationships of the classes/objects involved in the problem
 3. Describe the consequences of using this design patterns 
-4. Lastly find a cool name the encapsulates the problem
+4. Lastly, find a *cool* name the encapsulates the problem
 
-I mean 
+ 
 
 
 ## Patterns in my own work? Impossible.
