@@ -42,7 +42,7 @@ import { Vendors } from '../../api/vendor/Vendor';
 
 Once "Vendors" is imported we can access and edit the data in Vendors, from any page/component.
 
-<img class="ui small rounded image" src="../images/vendors-singleton.png">
+<img class="ui small image" src="../images/vendors-singleton.png">
 
 > For example we can map through vendors, making each one a vendor item, and then displaying them as a list. 
 
