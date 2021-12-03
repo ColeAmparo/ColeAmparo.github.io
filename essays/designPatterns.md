@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Design Patterns are a Legal Way to Cheat"
+title: "Design Patterns for Dummies... (Me, I'm dummies)"
 date: 2021-12-01
 labels:
   - Design Patterns 
@@ -19,7 +19,7 @@ Most of the time bosses do have patterns that you can learn and exploit for your
 When coming up with a solution for how to approach a problem, there's a good chance that multiple people have had to do the same problem, and some might have documented a solution. These are design patterns, guides on how to approach a coding problem, on behalf of the software engineers who came before us. 
 
 
-## Design Patterns for Dummies 
+## Basics of Design Patterns 
 
 The idea of design patterns is simple:
 
@@ -29,7 +29,7 @@ The idea of design patterns is simple:
 4. Lastly, find a *cool* name the encapsulates the problem
 
  
-## Patterns in my own work? Impossible.
+## Life is a simulation, design patterns are in everything.
 
 In our group's final project [Bow-Bites](https://github.com/bow-bites), I have spotted a few relationships that are similar to design patterns that I have learned. These design patterns include MVC (Model-View-Controller), Singleton, and Observers. 
 
