@@ -18,7 +18,7 @@ summary: A website allowing UH users to see what vendors are available on campus
 
 Bow Bites is an application that connects UH community members to Campus Vendor for the purpose of finding good eats!
 
-![](images/m3-landing.png)
+<img class="ui large rounded image" src="../images/m3-landing.png">
 
 
 There are three roles on the application:
@@ -33,5 +33,7 @@ Vendors have parameter for their operating hours, type of food they sell, a desc
 
 I contributed to the layouts of the vendor list pages, the edit vendor pages, and the admin pages. I also did designed how the vendors look as well as the landing page.
 
-![](images/m3-landing.png)
+Landing Page I designed: 
+
+<img class="ui large rounded image" src="../images/m3-landing.png">
 
