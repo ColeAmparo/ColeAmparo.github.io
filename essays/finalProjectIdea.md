@@ -1,6 +1,6 @@
 ---
-layout: essay
-type: essay
+layout: 
+type: 
 title: "UHArt Gallery"
 date: 2021-11-02
 labels:
