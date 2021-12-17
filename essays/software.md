@@ -1,6 +1,6 @@
 ---
-layout: essay
-type: essay
+layout: 
+type: 
 title: What’s the deal with Software? 
 date: 2021-09-01
 labels:
