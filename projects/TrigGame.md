@@ -50,7 +50,7 @@ What I learned
 
 The program doesn’t work perfectly because to detect collision it checks
 if the coordinate is above or below the slope of the line created. Since
-the circle is NOT actually a circle, (it is 360 seperate squares) it has it’s own for loop that
+the circle is NOT actually a circle, (it is 360 separate squares) it has it’s own for loop that
 checks each square as the circle object is moving. I did try a
 version where every time the circle object moves, all 360 rectangles are
 checked before the circle moves again. However, that solution had a horrible runtime and wouldn't work. So I learned that there are

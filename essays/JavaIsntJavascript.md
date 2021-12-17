@@ -80,7 +80,7 @@ function eulerProjectOne(max) {
 eulerProjectOne(1000);
 ```
 
-The first practice WOD that I did was a function that took a number as a parameter and returned the sum of all multiples of 3 and 5 under this number, which in this example was 1000. The first time I attempted this WOD I did not finish it under a passable time, which was frustarting. It was becuase I was so nervous about the WOD being timed that I forgot about the mod function. When doing WODs failure is part of the process but I tried again and again untill I got a good time.
+The first practice WOD that I did was a function that took a number as a parameter and returned the sum of all multiples of 3 and 5 under this number, which in this example was 1000. The first time I attempted this WOD I did not finish it under a passable time, which was frustrating. It was because I was so nervous about the WOD being timed that I forgot about the mod function. When doing WODs failure is part of the process but I tried again and again until I got a good time.
 
 
 
