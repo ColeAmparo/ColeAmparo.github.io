@@ -4,7 +4,7 @@ type: project
 image: images/bowbites.png
 title: Bow Bites
 permalink: projects/bow-bites
-date: 2020-12-05
+date: 2020-12-17
 labels:
   - Meteor
   - Semantic UI React
