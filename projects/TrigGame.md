@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: 
+type: 
 image: images/trigGame.png
 title: Trigonometry Game
 permalink: projects/triggame
