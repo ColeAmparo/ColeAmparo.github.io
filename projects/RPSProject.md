@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: 
+type: 
 image: images/RPSProject.png
 title: Pokemon Rock-Paper-Scissors
 permalink: projects/micromouse
