@@ -4,7 +4,7 @@ type: project
 image: images/legisttrackerThumbnail.png
 title: Legislative Tracker for the DOE
 permalink: projects/legistracker
-date: 2022-12-08
+date: 2022-12-01
 labels:
   - React.js 
   - Meteor
