@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/legisttrackerThumbnail.png
+image: images/legistrackerThumbnail.png
 title: Legislative Tracker for the DOE
 permalink: projects/legistracker
 date: 2022-12-01
