@@ -6,12 +6,12 @@ title: BeatTrack
 permalink: projects/beattrack
 date: 2022-12-06
 labels:
-  - Oculus 
   - Virtual Reality
+  - Oculus
   - C#
   - Unity
 summary: A drumming simulator/rhythm game I developed for the Oculus Quest 2.
-—--
+---
 
 
 ## Video 
