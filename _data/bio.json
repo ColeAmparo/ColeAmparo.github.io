@@ -1,17 +1,17 @@
 {
   "basics": {
     "name": "Cole Amparo",
-    "label": "Student",
+    "label": "Software Engineer",
     "picture": "https://coleamparo.github.io/images/cole.jpg",
-    "email": "camparo@hawaii.edu",
+    "email": "coleaamparo@gmail.com",
     "phone": "",
     "website": "https://coleamparo.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023. I am interested in Website Development.",
+    "summary": "I am a 2023 Newgrad in Computer Science from the University of Hawaii. I am passionate about Web and Game development, and I have a strong suit in teamwork and communication",
     "location": {
-      "postalCode": "96707",
-      "city": "Kapolei",
+      "postalCode": "98125",
+      "city": "Seattle",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Washington"
     },
     "profiles": [
       {
@@ -24,11 +24,6 @@
         "username": "Cole Amparo",
         "url": "https://www.linkedin.com/in/cole-amparo-230a0621a/"
       },
-      {
-        "network": "instagram",
-        "username": "coleamparo",
-        "url": "http://instagram.com/coleamparo"
-      }
     ]
   },
   "interests": [
@@ -53,48 +48,49 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript"
+        "Javascript",
+        "Python",
+        "React.js",
+        "HTML",
+        "CSS"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS"
+        "MacOS",
+        "Windows"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2023)",
+      "area": "Computer Science",
       "studyType": "B.A.",
       "startDate": "2019-09-01",
-      "endDate": "Present",
-      "gpa": "3.51",
+      "endDate": "2023-05-13",
+      "gpa": "3.7",
       "courses": [
-        "ICS 111: Intro to ICS I",
-        "ICS 211: Intro to ICS II",
-        "ICS 212: Program Structure",
-        "ICS 141 & ICS 241: Discrete Math I & II",
-        "Math 241 & Math 241: Calculus I & II"
+        "Program Structure",
+        "Data Structures",
+        "Algorithms",
+        "Operating Systems"
       ]
     }
   ],
   "work": [
     {
-      "company": "Arancino at the Kahala",
-      "position": "Server Assistant",
-      "website": "https://www.arancino.com/arancino-kahala",
-      "startDate": "2019",
-      "endDate": "2020",
-      "summary": "Part-time job at a high end italian restaurant",
+      "company": "UH Manoa x Hacking 4 Defense x 25th ID",
+      "position": "Project Manager",
+      "startDate": "January 2023",
+      "endDate": "May 2023",
+      "summary": "Project Manager for a Telebehavorial Health System deployed in training areas in the Phillipines",
       "highlights": [
-        "Able to work and communicate well with colleagues",
-        "Adapt to spontaneous problems, customer service"
+        "Conducted outreach and successfully conducted over 50 customer interviews with military officers to gather valuable insights and feedback.",
+        "Played a pivotal role in testing networks and software during deployed training exercises in the Philippines, ensuring seamless operations and enhanced performance.",
+        "Developed and implemented the policy framework for 25th ID In-Field Behavioral Telehealth, providing guidelines and procedures for effective delivery of telehealth services."
       ],
       "company": "Hawaii Department of Labor and Industrial Relations",
       "position": "Information & Technology Intern",
@@ -112,14 +108,14 @@
   ],
   "awards": [
     {
-      "title": "Manoa Academic Merit Scholarship",
-      "date": "2019-Present",
+      "title": "Cum Laude",
+      "date": "2023",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who maintain a cumulative 3.0 Mānoa GPA or greater and enroll in and earn a minimum of 12 credits at UH Mānoa per Fall and Spring semesters."
+      "summary": "Graduated with a 3.7 GPA"
     },
     {
       "title": "UH Manoa Dean's List",
-      "date": "2019-Present",
+      "date": "2019-2023",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Completed every semester from 2019 with more than 12 credits per, with a 3.5+ GPA"
     }
