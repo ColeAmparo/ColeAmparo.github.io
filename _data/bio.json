@@ -2,7 +2,7 @@
   "basics": {
     "name": "Cole Amparo",
     "label": "Data Analyst",
-    "picture": "https://coleamparo.github.io/images/cole2.jpg",
+    "picture": "https://coleamparo.github.io/images/cole.jpg",
     "email": "coleaamparo@gmail.com",
     "phone": "",
     "website": "https://coleamparo.github.io",
@@ -62,7 +62,8 @@
       "keywords": [
         "MacOS",
         "Windows",
-        "Tableau"
+        "Tableau",
+        "Microsoft Suite"
       ]
     }
   ],
