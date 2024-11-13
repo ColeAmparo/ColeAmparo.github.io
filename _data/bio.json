@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Cole Amparo",
-    "label": "Software Engineer",
-    "picture": "https://coleamparo.github.io/images/cole.jpg",
+    "label": "Data Analyst",
+    "picture": "https://coleamparo.github.io/images/cole2.jpg",
     "email": "coleaamparo@gmail.com",
     "phone": "",
     "website": "https://coleamparo.github.io",
-    "summary": "I am a 2023 Newgrad in Computer Science from the University of Hawaii. I am passionate about Web and Game development, and I have a strong suit in teamwork and communication",
+    "summary": "Data Analyst with a focus on QA and Data Labeling/Annotation for Alexa LLM Agents. Passionate about all things Data and AI, with a strongsuit in teamwork and communication.",
     "location": {
       "postalCode": "98125",
       "city": "Seattle",
@@ -28,17 +28,17 @@
   },
   "interests": [
     {
+      "name": "Data Analysis",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+      ]
+    },
+    {
       "name": "Game Development",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Learning",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Website Development",
       "keywords": [
       ]
     }
@@ -50,6 +50,7 @@
       "keywords": [
         "Javascript",
         "Python",
+        "SQL",
         "React.js",
         "HTML",
         "CSS"
@@ -60,7 +61,8 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Windows"
+        "Windows",
+        "Tableau"
       ]
     }
   ],
@@ -82,27 +84,42 @@
   ],
   "work": [
     {
-      "company": "UH Manoa x Hacking 4 Defense x 25th ID",
+      "company": "Keywords Studios @ Amazon",
+      "position": "Data Analyst",
+      "startDate": "April 2024",
+      "endDate": "Present",
+      "summary": "Data Analyst with a focus on QA and Data Labeling/Annotation for Alexa LLM Agents.",
+      "highlights": [
+        "Collaborate with Development and Project Managers to ensure the quality and testability of AI-driven projects.",
+        "Manage QA coverage for AI-based projects, planning test passes and triaging issues to resolution.",
+        "Communicate updates via meetings and asynchronous channels to keep stakeholders informed.",
+        "Conduct root cause analysis and data validation to enhance data processes and ensure test results meet standards.",
+        "Create and support test dashboards/reports, providing insights and feedback on quality issues."
+      ]
+    },
+    {
+      "company": "Hacking 4 Defense x 25th Infantry Division",
       "position": "Project Manager",
       "startDate": "January 2023",
       "endDate": "May 2023",
-      "summary": "Project Manager for a Telebehavorial Health System deployed in training areas in the Phillipines",
+      "summary": "Project Manager for a Telebehavorial Health System deployed in Phillipines Military Bases",
       "highlights": [
-        "Conducted outreach and successfully conducted over 50 customer interviews with military officers to gather valuable insights and feedback.",
-        "Played a pivotal role in testing networks and software during deployed training exercises in the Philippines, ensuring seamless operations and enhanced performance.",
-        "Developed and implemented the policy framework for 25th ID In-Field Behavioral Telehealth, providing guidelines and procedures for effective delivery of telehealth services."
-      ],
+        "Conducted interviews with stakeholders and end-users to see if there were any existing solutions, limitations,  and wants/needs.",
+        "Developed and implemented the policy framework as a MVP for deployed mental telehealth care in the 25th ID, providing guidelines and procedures for effective delivery of telehealth services."
+
+      ]
+    },
+    {
       "company": "Hawaii Department of Labor and Industrial Relations",
       "position": "Information & Technology Intern",
       "website": "https://labor.hawaii.gov/",
       "startDate": "March 2022",
       "endDate": "July 2022",
-      "summary": "Internship program for the DLIR",
+      "summary": "Information & Technology Internship program",
       "highlights": [
-        "Learned how a Governemnt Department organizes and rolls out technology",
-        "Deployed 130 new machines for the DCD Division",
-        "Learned basic networking and worked in server rooms",
-        "Worked with the Workforce Developement Division on Updating and Redoing their online homepage"
+        "Worked with various clients to fix Login & Information Security Issues",
+        "Self-Coordinated and Led the roll out of 300+ devices by communicating with client side and team members"
+
       ]
     }
   ],
@@ -118,12 +135,6 @@
       "date": "2019-2023",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Completed every semester from 2019 with more than 12 credits per, with a 3.5+ GPA"
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
